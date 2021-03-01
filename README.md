@@ -14,5 +14,5 @@ Amount of Randomly selected training data	Training Accuracy	Testing accuracy
 40%	0.96	0.96
 50%	0.96	0.96
 60%	0.96	0.96
-![image](https://user-images.githubusercontent.com/76819369/109568234-e9e38180-7ae6-11eb-9f0a-30022330eae3.png)
+
 
